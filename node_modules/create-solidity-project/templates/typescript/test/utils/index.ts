@@ -1,0 +1,1 @@
+export { parseReceipt } from './parseReceipt';
