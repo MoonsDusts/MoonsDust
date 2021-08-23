@@ -36,6 +36,7 @@ MOOND is BEP-20 Smart Contract that is deployed on th Binance Smart Chain.
  Front Calculator and Buy Instructions are avilable at https://MoonsDust.com/buy.html.
  To Buy MOOND, users have to send BNB on Binance Smart Chain (BEP-20) to the MOOND Smart Contract:
  0x6cA5FAc496bf94345958635E6e6171Dfe78f36bb
+ 
  After the salesEndTime, the MOOND Smart Contract will stop accepting BNB payment and the supply will be constant after that.
  Maximum Supply when 100% of MOOND are sold is:  tokensForSale + _startSupply = 3,300,300 MOOND.
  
